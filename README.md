@@ -47,8 +47,15 @@
 
 ---
 
-### 🐍 Snake Contribution Graph
+---
+
+### 🌐 Connect with me  
 <p align="center">
-  <img src="https://github.com/adeline333/adeline333/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <a href="https://www.linkedin.com/in/adeline-tuyizere-315b22294/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/adeline_t3/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
-</p>
+
