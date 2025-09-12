@@ -47,8 +47,6 @@
 
 ---
 
----
-
 ### 🌐 Connect with me  
 <p align="center">
   <a href="https://www.linkedin.com/in/adeline-tuyizere-315b22294/" target="_blank">
