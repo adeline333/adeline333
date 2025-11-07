@@ -1,14 +1,13 @@
 <!-- PROFILE HEADER -->
 <h1 align="center">Hi 👋, I'm Adeline</h1>
-<h3 align="center">A passionate Developer & Travel Enthusiast 🌍</h3>
+<h3 align="center">A passionate Developer </h3>
 
 ---
 
 ### 🚀 About Me
-- 🌱 I’m currently learning **React & Web Development**  
+- 🌱 I’m currently learning **React & Node js**  
 - 👯 I’m looking to collaborate on **Open Source Projects**  
-- 💬 Ask me about **JavaScript, React, C, C#, Web Design**  
-- ✈️ Fun fact: I love **traveling & building websites inspired by it**  
+- 💬 Ask me about **JavaScript, React, Java, C**  
 
 ---
 
