@@ -5,9 +5,9 @@
 ---
 
 ### 🚀 About Me
-- 🌱 I’m currently learning **React & Node js**  
+- 🌱 I’m currently learning **React & Nest js**  
 - 👯 I’m looking to collaborate on **Open Source Projects**  
-- 💬 Ask me about **JavaScript, React, Java, C**  
+- 💬 Ask me about **JavaScript, React, Java**  
 
 ---
 
