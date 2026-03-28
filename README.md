@@ -1,13 +1,13 @@
 <!-- PROFILE HEADER -->
 <h1 align="center">Hi 👋, I'm Adeline</h1>
-<h3 align="center">A passionate Developer </h3>
+<h3 align="center">A passionate Software Developer </h3>
 
 ---
 
 ### 🚀 About Me
-- 🌱 I’m currently learning **React & Nest js**  
+- 🌱 I’m currently learning **Backend development and Software architecture**  
 - 👯 I’m looking to collaborate on **Open Source Projects**  
-- 💬 Ask me about **JavaScript, React, Java**  
+- 💬 Ask me about **Java, JavaScript, React, Node**  
 
 ---
 
