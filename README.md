@@ -20,15 +20,11 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adeline333&show_icons=true&theme=radical&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeline333&layout=compact&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=adeline333&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" height="180"/>
 </p>
 
----
-
-### 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adeline333&theme=radical&no-frame=true&margin-w=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeline333&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" height="180"/>
 </p>
 
 ---
