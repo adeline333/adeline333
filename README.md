@@ -7,30 +7,39 @@
 - 🌱 Currently learning **Backend Development & Software Architecture**
 - 👯 Open to collaborating on **Open Source Projects**
 - 💬 Ask me about **Java, JavaScript, React, Node.js**
-- ⚡ Interested in system design and scalable backend systems
+- ⚡ Focused on building scalable backend systems
 
 ---
 
 ### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java" />
-  <img src="https://skillicons.dev/icons?i=c" />
-  <img src="https://skillicons.dev/icons?i=javascript" />
-  <img src="https://skillicons.dev/icons?i=react" />
-  <img src="https://skillicons.dev/icons?i=nodejs" />
-  <img src="https://skillicons.dev/icons?i=html" />
-  <img src="https://skillicons.dev/icons?i=css" />
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=java,c,javascript,react,nodejs,html,css,git,github" />
 </p>
 
 ---
 
-### 📌 What I'm Focused On
-- Backend development (APIs, databases, authentication)
-- Software architecture principles
-- Problem solving & data structures
-- Building real-world projects
+### 📊 GitHub Stats (Reliable Version)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adeline333&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeline333&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" height="180"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies (STABLE VERSION)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adeline333&theme=radical&no-frame=true&row=1&column=6&margin-w=10" />
+</p>
+
+---
+
+### 📈 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adeline333&theme=github-compact" />
+</p>
 
 ---
 
@@ -42,11 +51,4 @@
   <a href="https://www.instagram.com/adeline_t3/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
   </a>
-</p>
-
----
-
-### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adeline333&theme=github-compact" />
 </p>
