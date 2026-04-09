@@ -34,15 +34,6 @@
 
 ---
 
-### 📂 Featured Projects
-> Add your projects here (this is more important than stats)
-
-- 🔹 Project 1 — Description of what it does
-- 🔹 Project 2 — Description of what it does
-- 🔹 Project 3 — Description of what it does
-
----
-
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/adeline-tuyizere-315b22294/" target="_blank">
