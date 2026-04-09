@@ -7,25 +7,39 @@
 - 🌱 Currently learning **Backend Development & Software Architecture**
 - 👯 Open to collaborating on **Open Source Projects**
 - 💬 Ask me about **Java, JavaScript, React, Node.js**
-- ⚡ Always improving problem-solving & system design skills
+- ⚡ Interested in system design and scalable backend systems
 
 ---
 
 ### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,react,html,css,git,github,nodejs,javascript" />
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=c" />
+  <img src="https://skillicons.dev/icons?i=javascript" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adeline333&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" height="180"/>
-</p>
+### 📌 What I'm Focused On
+- Backend development (APIs, databases, authentication)
+- Software architecture principles
+- Problem solving & data structures
+- Building real-world projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeline333&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" height="180"/>
-</p>
+---
+
+### 📂 Featured Projects
+> Add your projects here (this is more important than stats)
+
+- 🔹 Project 1 — Description of what it does
+- 🔹 Project 2 — Description of what it does
+- 🔹 Project 3 — Description of what it does
 
 ---
 
@@ -37,4 +51,11 @@
   <a href="https://www.instagram.com/adeline_t3/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
   </a>
+</p>
+
+---
+
+### 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adeline333&theme=github-compact" />
 </p>
